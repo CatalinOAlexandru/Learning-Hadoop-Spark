@@ -1,0 +1,105 @@
+bash-4.2$ python hastags.py -r hadoop --output-dir outTweets3 --no-output hdfs://studoop.eecs.qmul.ac.uk/data/olympictweets2016rio
+Using configs in /homes/coa31/.mrjob.conf
+Looking for hadoop binary in $PATH...
+Found hadoop binary: /bin/hadoop
+Using Hadoop version 2.6.0
+Looking for Hadoop streaming jar in /home/hadoop/contrib...
+Looking for Hadoop streaming jar in /usr/lib/hadoop-mapreduce...
+Found Hadoop streaming jar: /usr/lib/hadoop-mapreduce/hadoop-streaming.jar
+Creating temp directory /tmp/hastags.coa31.20191023.183419.653190
+Copying local files to hdfs:///user/coa31/tmp/mrjob/hastags.coa31.20191023.183419.653190/files/...
+Running step 1 of 1...
+  packageJobJar: [] [/usr/lib/hadoop-mapreduce/hadoop-streaming-2.6.0-cdh5.12.1.jar] /tmp/streamjob2568740274579613910.jar tmpDir=null
+  Connecting to ResourceManager at studoop.eecs.qmul.ac.uk/138.37.32.70:8032
+  Connecting to ResourceManager at studoop.eecs.qmul.ac.uk/138.37.32.70:8032
+  Total input paths to process : 1
+  Adding a new node: /eecs/moonshot-switch/138.37.32.78:50010
+  Adding a new node: /eecs/moonshot-switch/138.37.32.76:50010
+  Adding a new node: /eecs/moonshot-switch/138.37.32.82:50010
+  Adding a new node: /eecs/moonshot-switch/138.37.32.80:50010
+  Adding a new node: /eecs/moonshot-switch/138.37.32.72:50010
+  Adding a new node: /eecs/moonshot-switch/138.37.32.77:50010
+  Adding a new node: /eecs/moonshot-switch/138.37.32.73:50010
+  Adding a new node: /eecs/moonshot-switch/138.37.32.75:50010
+  Adding a new node: /eecs/moonshot-switch/138.37.32.81:50010
+  Adding a new node: /eecs/moonshot-switch/138.37.32.83:50010
+  Adding a new node: /eecs/moonshot-switch/138.37.32.79:50010
+  Adding a new node: /eecs/moonshot-switch/138.37.32.74:50010
+  number of splits:44
+  Submitting tokens for job: job_1571788939914_0146
+  Submitted application application_1571788939914_0146
+  The url to track the job: http://studoop.eecs.qmul.ac.uk:8088/proxy/application_1571788939914_0146/
+  Running job: job_1571788939914_0146
+  Job job_1571788939914_0146 running in uber mode : false
+   map 0% reduce 0%
+   map 2% reduce 0%
+   map 5% reduce 0%
+   map 14% reduce 0%
+   map 100% reduce 0%
+   map 100% reduce 67%
+   map 100% reduce 83%
+   map 100% reduce 100%
+  Job job_1571788939914_0146 completed successfully
+  Output directory: hdfs:///user/coa31/outTweets3
+Counters: 50
+	File Input Format Counters 
+		Bytes Read=5917425245
+	File Output Format Counters 
+		Bytes Written=58
+	File System Counters
+		FILE: Number of bytes read=131811134
+		FILE: Number of bytes written=270532002
+		FILE: Number of large read operations=0
+		FILE: Number of read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=5917429997
+		HDFS: Number of bytes written=58
+		HDFS: Number of large read operations=0
+		HDFS: Number of read operations=138
+		HDFS: Number of write operations=4
+	Job Counters 
+		Data-local map tasks=41
+		Launched map tasks=44
+		Launched reduce tasks=2
+		Rack-local map tasks=3
+		Total megabyte-milliseconds taken by all map tasks=696806400
+		Total megabyte-milliseconds taken by all reduce tasks=215814144
+		Total time spent by all map tasks (ms)=680475
+		Total time spent by all maps in occupied slots (ms)=680475
+		Total time spent by all reduce tasks (ms)=210756
+		Total time spent by all reduces in occupied slots (ms)=210756
+		Total vcore-milliseconds taken by all map tasks=680475
+		Total vcore-milliseconds taken by all reduce tasks=210756
+	Map-Reduce Framework
+		CPU time spent (ms)=400620
+		Combine input records=0
+		Combine output records=0
+		Failed Shuffles=0
+		GC time elapsed (ms)=3915
+		Input split bytes=4752
+		Map input records=25748144
+		Map output bytes=656007941
+		Map output materialized bytes=131814138
+		Map output records=51137258
+		Merged Map outputs=88
+		Physical memory (bytes) snapshot=24887484416
+		Reduce input groups=2
+		Reduce input records=51137258
+		Reduce output records=2
+		Reduce shuffle bytes=131814138
+		Shuffled Maps =88
+		Spilled Records=102274516
+		Total committed heap usage (bytes)=30433869824
+		Virtual memory (bytes) snapshot=129601138688
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+job output is in hdfs:///user/coa31/outTweets3
+Removing HDFS temp directory hdfs:///user/coa31/tmp/mrjob/hastags.coa31.20191023.183419.653190...
+Removing temp directory /tmp/hastags.coa31.20191023.183419.653190...
+bash-4.2$ hadoop fs -ls
+

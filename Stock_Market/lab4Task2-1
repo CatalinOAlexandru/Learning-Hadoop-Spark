@@ -1,0 +1,347 @@
+["Basic Industries", 1984]	777900
+["Basic Industries", 1987]	62250600
+["Basic Industries", 1990]	50279300
+["Basic Industries", 1993]	205591800
+["Basic Industries", 1996]	387478000
+["Basic Industries", 1999]	633699300
+["Basic Industries", 2002]	1457085900
+["Basic Industries", 2005]	3948556300
+["Basic Industries", 2008]	6667251100
+["Capital Goods", 1983]	1753000
+["Capital Goods", 1986]	133303500
+["Capital Goods", 1989]	247992800
+["Capital Goods", 1992]	1590562600
+["Capital Goods", 1995]	2813240900
+["Capital Goods", 1998]	3361564200
+["Capital Goods", 2001]	7800416900
+["Capital Goods", 2004]	13731466300
+["Capital Goods", 2007]	11994847800
+["Capital Goods", 2010]	1372269200
+["Consumer Durables", 1986]	61766600
+["Consumer Durables", 1989]	541831700
+["Consumer Durables", 1992]	1104517600
+["Consumer Durables", 1995]	1894049800
+["Consumer Durables", 1998]	3317072300
+["Consumer Durables", 2001]	7448955100
+["Consumer Durables", 2004]	11946849800
+["Consumer Durables", 2007]	21611627400
+["Consumer Durables", 2010]	3460214500
+["Consumer Non-Durables", 1983]	176857200
+["Consumer Non-Durables", 1986]	188261200
+["Consumer Non-Durables", 1989]	207792800
+["Consumer Non-Durables", 1992]	509966200
+["Consumer Non-Durables", 1995]	803718100
+["Consumer Non-Durables", 1998]	1308333100
+["Consumer Non-Durables", 2001]	2252173000
+["Consumer Non-Durables", 2004]	3216664500
+["Consumer Non-Durables", 2007]	6747476200
+["Consumer Non-Durables", 2010]	782036300
+["Consumer Services", 1986]	291601600
+["Consumer Services", 1989]	1228408300
+["Consumer Services", 1992]	5887403200
+["Consumer Services", 1995]	9601889500
+["Consumer Services", 1998]	19473027700
+["Consumer Services", 2001]	21842023900
+["Consumer Services", 2004]	48511323200
+["Consumer Services", 2007]	56119992000
+["Consumer Services", 2010]	6764953000
+["Energy", 1985]	984400
+["Energy", 1988]	6453600
+["Energy", 1991]	25500600
+["Energy", 1994]	116227800
+["Energy", 1997]	696007300
+["Energy", 2000]	1227926300
+["Energy", 2003]	3233939300
+["Energy", 2006]	4608187000
+["Energy", 2009]	7459332400
+["Finance", 1986]	76992600
+["Finance", 1989]	95059700
+["Finance", 1992]	1086152400
+["Finance", 1995]	1680270900
+["Finance", 1998]	5423429100
+["Finance", 2001]	5406876200
+["Finance", 2004]	6726978000
+["Finance", 2007]	19261352800
+["Finance", 2010]	4959457400
+["Health Care", 1986]	1631798500
+["Health Care", 1989]	3835959000
+["Health Care", 1992]	3626733300
+["Health Care", 1995]	4510238000
+["Health Care", 1998]	6294032600
+["Health Care", 2001]	12440323500
+["Health Care", 2004]	17062868000
+["Health Care", 2007]	21087185900
+["Health Care", 2010]	2593413000
+["Miscellaneous", 1986]	64078800
+["Miscellaneous", 1989]	54656000
+["Miscellaneous", 1992]	105079300
+["Miscellaneous", 1995]	440368900
+["Miscellaneous", 1998]	3966588600
+["Miscellaneous", 2001]	9450836900
+["Miscellaneous", 2004]	9432342700
+["Miscellaneous", 2007]	9814919000
+["Miscellaneous", 2010]	997407500
+["Public Utilities", 1987]	1338800
+["Public Utilities", 1990]	527940500
+["Public Utilities", 1993]	2208407200
+["Public Utilities", 1996]	2547470300
+["Public Utilities", 1999]	3641698400
+["Public Utilities", 2002]	3667884200
+["Public Utilities", 2005]	6136518100
+["Public Utilities", 2008]	11644167100
+["Technology", 1983]	237016000
+["Technology", 1986]	15363418700
+["Technology", 1989]	53284789900
+["Technology", 1992]	104232296100
+["Technology", 1995]	142914133300
+["Technology", 1998]	148082444500
+["Technology", 2001]	191391115900
+["Technology", 2004]	174307730200
+["Technology", 2007]	195696311200
+["Technology", 2010]	21134813500
+["Transportation", 1985]	62500
+["Transportation", 1988]	29740200
+["Transportation", 1991]	278770600
+["Transportation", 1994]	571155600
+["Transportation", 1997]	770850600
+["Transportation", 2000]	857457600
+["Transportation", 2003]	3467812000
+["Transportation", 2006]	5059142400
+["Transportation", 2009]	15810664000
+["n/a", 1992]	13818400
+["n/a", 1995]	25851100
+["n/a", 1998]	54464600
+["n/a", 2001]	110501600
+["n/a", 2004]	705490100
+["n/a", 2007]	2210032100
+["n/a", 2010]	467294500
+["Basic Industries", 1985]	1793400
+["Basic Industries", 1988]	37710200
+["Basic Industries", 1991]	81180600
+["Basic Industries", 1994]	486501400
+["Basic Industries", 1997]	614323100
+["Basic Industries", 2000]	835244700
+["Basic Industries", 2003]	1944005200
+["Basic Industries", 2006]	4949050000
+["Basic Industries", 2009]	7802410000
+["Capital Goods", 1984]	14133000
+["Capital Goods", 1987]	326883900
+["Capital Goods", 1990]	698720400
+["Capital Goods", 1993]	1720776400
+["Capital Goods", 1996]	2832636600
+["Capital Goods", 1999]	3818831000
+["Capital Goods", 2002]	9348060000
+["Capital Goods", 2005]	9793775500
+["Capital Goods", 2008]	12955069900
+["Consumer Durables", 1984]	11690100
+["Consumer Durables", 1987]	76873500
+["Consumer Durables", 1990]	874121700
+["Consumer Durables", 1993]	1443092900
+["Consumer Durables", 1996]	2578342400
+["Consumer Durables", 1999]	3570431500
+["Consumer Durables", 2002]	7194027400
+["Consumer Durables", 2005]	12149858900
+["Consumer Durables", 2008]	19826570700
+["Consumer Non-Durables", 1984]	146146200
+["Consumer Non-Durables", 1987]	225134500
+["Consumer Non-Durables", 1990]	472718900
+["Consumer Non-Durables", 1993]	832006400
+["Consumer Non-Durables", 1996]	773395700
+["Consumer Non-Durables", 1999]	2223199500
+["Consumer Non-Durables", 2002]	2251176700
+["Consumer Non-Durables", 2005]	3444709900
+["Consumer Non-Durables", 2008]	7231873200
+["Consumer Services", 1984]	25876700
+["Consumer Services", 1987]	573907600
+["Consumer Services", 1990]	2521277000
+["Consumer Services", 1993]	8762814100
+["Consumer Services", 1996]	11740653400
+["Consumer Services", 1999]	21403076600
+["Consumer Services", 2002]	26340214700
+["Consumer Services", 2005]	43693689700
+["Consumer Services", 2008]	68196293100
+["Energy", 1986]	3064400
+["Energy", 1989]	2005200
+["Energy", 1992]	26940600
+["Energy", 1995]	212066500
+["Energy", 1998]	835043800
+["Energy", 2001]	2112426800
+["Energy", 2004]	2919787500
+["Energy", 2007]	5650709900
+["Energy", 2010]	993107500
+["Finance", 1984]	8884800
+["Finance", 1987]	87624500
+["Finance", 1990]	716624500
+["Finance", 1993]	1286350900
+["Finance", 1996]	1946546400
+["Finance", 1999]	6426144000
+["Finance", 2002]	5603444900
+["Finance", 2005]	8319385400
+["Finance", 2008]	31572779200
+["Health Care", 1984]	68211200
+["Health Care", 1987]	2680906900
+["Health Care", 1990]	4421805200
+["Health Care", 1993]	4977589500
+["Health Care", 1996]	5010913200
+["Health Care", 1999]	6650615800
+["Health Care", 2002]	16845744200
+["Health Care", 2005]	18852278100
+["Health Care", 2008]	22233997900
+["Miscellaneous", 1987]	79597600
+["Miscellaneous", 1990]	80405400
+["Miscellaneous", 1993]	157437500
+["Miscellaneous", 1996]	403314300
+["Miscellaneous", 1999]	10863236000
+["Miscellaneous", 2002]	8798828000
+["Miscellaneous", 2005]	9698658800
+["Miscellaneous", 2008]	10417070500
+["Public Utilities", 1988]	23317300
+["Public Utilities", 1991]	703005400
+["Public Utilities", 1994]	2494488000
+["Public Utilities", 1997]	2103681400
+["Public Utilities", 2000]	4966043900
+["Public Utilities", 2003]	4795199100
+["Public Utilities", 2006]	8061331200
+["Public Utilities", 2009]	11223476200
+["Technology", 1984]	1376260700
+["Technology", 1987]	48619842600
+["Technology", 1990]	75661733800
+["Technology", 1993]	127972004400
+["Technology", 1996]	143569777600
+["Technology", 1999]	145344541400
+["Technology", 2002]	195598130200
+["Technology", 2005]	166392968000
+["Technology", 2008]	223018976400
+["Transportation", 1986]	17737200
+["Transportation", 1989]	34433700
+["Transportation", 1992]	337846800
+["Transportation", 1995]	657422500
+["Transportation", 1998]	1086803800
+["Transportation", 2001]	1343711900
+["Transportation", 2004]	4008993800
+["Transportation", 2007]	6476192800
+["Transportation", 2010]	1664101300
+["n/a", 1990]	4536200
+["n/a", 1993]	18894600
+["n/a", 1996]	25896500
+["n/a", 1999]	51650500
+["n/a", 2002]	354195600
+["n/a", 2005]	848844700
+["n/a", 2008]	3019503000
+["Basic Industries", 1983]	1056000
+["Basic Industries", 1986]	54565600
+["Basic Industries", 1989]	37510800
+["Basic Industries", 1992]	175390300
+["Basic Industries", 1995]	391597900
+["Basic Industries", 1998]	632407700
+["Basic Industries", 2001]	915262600
+["Basic Industries", 2004]	2982751800
+["Basic Industries", 2007]	5445047000
+["Basic Industries", 2010]	915806400
+["Capital Goods", 1985]	40740800
+["Capital Goods", 1988]	222104400
+["Capital Goods", 1991]	1009701600
+["Capital Goods", 1994]	1969780000
+["Capital Goods", 1997]	3640327600
+["Capital Goods", 2000]	6367861900
+["Capital Goods", 2003]	8693659000
+["Capital Goods", 2006]	9964054300
+["Capital Goods", 2009]	12629301100
+["Consumer Durables", 1985]	95029700
+["Consumer Durables", 1988]	237081200
+["Consumer Durables", 1991]	1095393900
+["Consumer Durables", 1994]	1730367600
+["Consumer Durables", 1997]	3074150700
+["Consumer Durables", 2000]	6536357400
+["Consumer Durables", 2003]	10066398300
+["Consumer Durables", 2006]	14348636100
+["Consumer Durables", 2009]	28555222700
+["Consumer Non-Durables", 1982]	315145500
+["Consumer Non-Durables", 1985]	175015600
+["Consumer Non-Durables", 1988]	124949200
+["Consumer Non-Durables", 1991]	558961600
+["Consumer Non-Durables", 1994]	745011200
+["Consumer Non-Durables", 1997]	937931000
+["Consumer Non-Durables", 2000]	2331213700
+["Consumer Non-Durables", 2003]	2703820000
+["Consumer Non-Durables", 2006]	4293882700
+["Consumer Non-Durables", 2009]	6017711300
+["Consumer Services", 1985]	56896400
+["Consumer Services", 1988]	748478700
+["Consumer Services", 1991]	3881930600
+["Consumer Services", 1994]	7830989400
+["Consumer Services", 1997]	13521488800
+["Consumer Services", 2000]	21526876700
+["Consumer Services", 2003]	40976084200
+["Consumer Services", 2006]	45568740500
+["Consumer Services", 2009]	66474529400
+["Energy", 1984]	366800
+["Energy", 1987]	11062000
+["Energy", 1990]	19948700
+["Energy", 1993]	82588100
+["Energy", 1996]	427815900
+["Energy", 1999]	660431500
+["Energy", 2002]	1393416200
+["Energy", 2005]	4046663300
+["Energy", 2008]	7304905300
+["Finance", 1985]	33155300
+["Finance", 1988]	68792400
+["Finance", 1991]	1017674200
+["Finance", 1994]	1398929400
+["Finance", 1997]	3289241100
+["Finance", 2000]	5344647600
+["Finance", 2003]	6181293800
+["Finance", 2006]	9684141100
+["Finance", 2009]	49538391900
+["Health Care", 1985]	414742200
+["Health Care", 1988]	1701042300
+["Health Care", 1991]	4453561200
+["Health Care", 1994]	3958516700
+["Health Care", 1997]	6122185100
+["Health Care", 2000]	9579088200
+["Health Care", 2003]	16895534800
+["Health Care", 2006]	18226765900
+["Health Care", 2009]	24715116100
+["Miscellaneous", 1985]	28501200
+["Miscellaneous", 1988]	56854200
+["Miscellaneous", 1991]	93588300
+["Miscellaneous", 1994]	224996000
+["Miscellaneous", 1997]	349499400
+["Miscellaneous", 2000]	8055118600
+["Miscellaneous", 2003]	11051821200
+["Miscellaneous", 2006]	8861034200
+["Miscellaneous", 2009]	10253562000
+["Public Utilities", 1986]	1429600
+["Public Utilities", 1989]	694189300
+["Public Utilities", 1992]	1009964100
+["Public Utilities", 1995]	3075816400
+["Public Utilities", 1998]	3299369100
+["Public Utilities", 2001]	5519685400
+["Public Utilities", 2004]	6015762900
+["Public Utilities", 2007]	9597175300
+["Public Utilities", 2010]	1433631800
+["Technology", 1985]	4136406400
+["Technology", 1988]	48439865300
+["Technology", 1991]	105726289100
+["Technology", 1994]	122697486600
+["Technology", 1997]	158506623500
+["Technology", 2000]	163752370300
+["Technology", 2003]	181058312200
+["Technology", 2006]	185793055100
+["Technology", 2009]	189633536200
+["Transportation", 1984]	4000
+["Transportation", 1987]	51696500
+["Transportation", 1990]	194147500
+["Transportation", 1993]	554053300
+["Transportation", 1996]	648979300
+["Transportation", 1999]	798362300
+["Transportation", 2002]	2167911100
+["Transportation", 2005]	4366272700
+["Transportation", 2008]	9601187500
+["n/a", 1991]	4158900
+["n/a", 1994]	20715200
+["n/a", 1997]	35600500
+["n/a", 2000]	87012400
+["n/a", 2003]	405813600
+["n/a", 2006]	1265443700
+["n/a", 2009]	3468982500
